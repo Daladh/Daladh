@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="DALADH — Cybersecurity & Intelligence" width="380">
+</p>
+
 <h1 align="center">Hi, I'm Daladh 👋</h1>
 
 <p align="center">
