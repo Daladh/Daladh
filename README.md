@@ -47,6 +47,13 @@ I'm a software engineer with a growing focus on **application security** and **o
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
+**Training platforms**
+<p>
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white">
+  <img src="https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=flat-square&logo=burpsuite&logoColor=white">
+</p>
+
 ---
 
 ### 📌 Featured project
