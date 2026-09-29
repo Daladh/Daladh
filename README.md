@@ -21,8 +21,8 @@
 
 I'm a software engineer with a growing focus on **application security** and **offensive security**. I enjoy understanding how systems work — and how they fail. I build projects with clean code and document my security research so others can learn from it too.
 
-- 🔭 Currently sharpening my skills on **OWASP Juice Shop**, **PortSwigger Web Security Academy**, **Hack The Box** and **TryHackMe**.
-- 🌱 Deepening my knowledge of web vulnerabilities: SQL/NoSQL injection, XSS, SSRF, XXE, broken access control and authentication flaws.
+- 🔭 Hands-on with web application security: SQL/NoSQL injection, XSS, SSRF, XXE, broken access control and authentication flaws.
+- 🧪 I practice on OWASP Juice Shop, PortSwigger Web Security Academy, Hack The Box and TryHackMe.
 - 🎯 Goal: become a well-rounded engineer who can both **build secure software** and **assess it**.
 
 ---
@@ -46,18 +46,6 @@ I'm a software engineer with a growing focus on **application security** and **o
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
-
----
-
-### 🔐 Security learning progress
-
-| Platform | Handle | Status |
-|----------|--------|--------|
-| 🟩 **Hack The Box** | `Daladh` | Level 4 |
-| 🔴 **TryHackMe** | `DosD` | Apprentice · Top 50% · 6 rooms |
-| 🟧 **PortSwigger Web Security Academy** | `Daladh` | 38+ labs solved (SQLi, File upload, SSRF…) |
-
-> Hands-on practice across injection, access control, authentication and server-side vulnerability classes.
 
 ---
 
